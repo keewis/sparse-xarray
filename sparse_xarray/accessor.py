@@ -20,3 +20,7 @@ class SparseXarray:
 
     def as_format(self, format):
         pass
+
+    @property
+    def fill_value(self):
+        pass
